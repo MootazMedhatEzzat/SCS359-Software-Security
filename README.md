@@ -29,10 +29,12 @@ Faculty of Computers and Artificial Intelligence
 Software Security Course (Spring 2024)
 
 ### Instructions
+
 - Implement a DES algorithm sourced from any online platforms or use your own implementation
 - Employ your DES algorithm to encrypt the provided file and save the ciphertext in a separate file
 - Ensure the ciphertext file can be uploaded to the DES decryption function to recover the original file
 
 ### Deadline
+
 - Date: Saturday, 20th of April, 2024
 - Time: 11:59 PM
