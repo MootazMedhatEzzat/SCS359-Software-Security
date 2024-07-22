@@ -22,10 +22,6 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/2b1bae8b-3c25-4d76-8d45-e8fbdc747221)
-![image](https://github.com/user-attachments/assets/8ed0c5ea-ef22-4b03-97a2-0fb5bff7b7d3)
-![image](https://github.com/user-attachments/assets/e74f9c77-cbbf-42a0-a62b-8926d7439f66)
-![image](https://github.com/user-attachments/assets/c8b33ef8-de66-4f25-b159-e7ad10815783)
 
 ## Presentation Description
 
