@@ -4,7 +4,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td colspan="2" align="center"><strong>{ Digital Signatures Presentation }</strong></td>
+      <td colspan="2" align="center"><strong>{ Task 1: Utilize the DES algorithm for file encryption and decryption }</strong></td>
     </tr>
     <tr>
       <td align="left"><strong>Name</strong>: Mootaz Medhat Ezzat Abdelwahab</td>
@@ -22,11 +22,17 @@
 
 ---
 
-
-## Presentation Description
+## Task 1: Utilize the DES algorithm for file encryption and decryption
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
 Software Security Course (Spring 2024)
 
-This presentation is a comprehensive overview of Digital Signatures, a secure way to authenticate and verify the integrity of digital messages and documents. It covers the fundamental concepts of traditional signatures, electronic signatures, and dives deep into digital signatures. The presentation explains how digital signatures work, the benefits of using them, and the cryptographic techniques involved. Attendees will understand the role of certificate authorities (CAs) and the process of obtaining and verifying digital signatures. This presentation is part of the term work for the Software Security course taught by Dr. Basheer Abdel Fatah Youssef at the Faculty of Computers and Artificial Intelligence, Cairo University.
+### Instructions
+- Implement a DES algorithm sourced from any online platforms or use your own implementation
+- Employ your DES algorithm to encrypt the provided file and save the ciphertext in a separate file
+- Ensure the ciphertext file can be uploaded to the DES decryption function to recover the original file
+
+### Deadline
+- Date: Saturday, 20th of April, 2024
+- Time: 11:59 PM
