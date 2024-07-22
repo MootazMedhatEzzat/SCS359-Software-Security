@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
-      <td align="right"><strong>Group</strong>: B (S4)</td>
+      <td align="right"><strong>Group</strong>: B (S5)</td>
     </tr>
     <tr>
       <td colspan="2" align="center"><strong>Delivered To</strong>: Dr. Basheer Abdel Fatah Youssef</td>
