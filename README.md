@@ -22,7 +22,7 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/3a63c2ea-0d1d-4afe-ad7f-56c8eba4108e)
+![image](https://github.com/user-attachments/assets/ea78de8b-77aa-4213-ba33-c8de673b7cd4)
 ![image](https://github.com/user-attachments/assets/b5743cbd-ac86-4177-b98f-2214ea882c5b)
 ![image](https://github.com/user-attachments/assets/3c0a1824-ded4-4fe0-b4ee-94ea396adf37)
 
@@ -30,6 +30,6 @@
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
-Web-Engineering Course (Spring 2024)
+Software Security Course (Spring 2024)
 
-This presentation is a comprehensive overview of WordPress, the most popular web content management system (WCMS). It covers the fundamental concepts of content management systems (CMSs), highlights the top 5 WCMSs in 2023, and delves into the key features of WordPress. Attendees will learn about the differences between WordPress.org and WordPress.com, and see a simple live demo to understand the practical applications of WordPress. This presentation is part of the term work for the Web-Engineering course taught by Dr. Nour Mahmoud at the Faculty of Computers and Artificial Intelligence, Cairo University.
+This presentation is a comprehensive overview of Digital Signatures, a secure way to authenticate and verify the integrity of digital messages and documents. It covers the fundamental concepts of traditional signatures, electronic signatures, and dives deep into digital signatures. The presentation explains how digital signatures work, the benefits of using them, and the cryptographic techniques involved. Attendees will understand the role of certificate authorities (CAs) and the process of obtaining and verifying digital signatures. This presentation is part of the term work for the Software Security course taught by Dr. Basheer Abdel Fatah Youssef at the Faculty of Computers and Artificial Intelligence, Cairo University.
