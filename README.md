@@ -39,6 +39,8 @@ Software Security Course (Spring 2024)
 - 📅 **Date**: Saturday, 20th of April, 2024  
 - 🕛 **Time**: 11:59 PM  
 
+---
+
 ### 🛠️ Programming Language and Development Tools Used
 
 <table align="center" border="1" cellpadding="10">
