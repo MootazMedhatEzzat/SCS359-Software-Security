@@ -7,8 +7,8 @@
       <td colspan="2" align="center"><strong>{ Task 2: Implement RSA from Scratch }</strong></td>
     </tr>
     <tr>
-      <td align="left"><strong>Name</strong>: Mootaz Medhat Ezzat Abdelwahab</td>
-      <td align="right"><strong>Id</strong>: 20206074</td>
+      <td align="center"><strong>Names:</strong><br>Dalia Gamal Abdelhamed<br>Mootaz Medhat Ezzat Abdelwahab</td>
+      <td align="center"><strong>IDs:</strong><br>20206023<br>20206074</td>
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
