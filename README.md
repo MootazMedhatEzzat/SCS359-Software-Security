@@ -22,19 +22,29 @@
 
 ---
 
-## Task 1: Utilize the DES algorithm for file encryption and decryption
+## 🛡️ Task 1: Utilize the DES algorithm for file encryption and decryption
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
 Software Security Course (Spring 2024)
 
-### Instructions
+### 📤 Submission Instructions
 
-- Implement a DES algorithm sourced from any online platforms or use your own implementation
-- Employ your DES algorithm to encrypt the provided file and save the ciphertext in a separate file
-- Ensure the ciphertext file can be uploaded to the DES decryption function to recover the original file
+- 🖥️ **Implement** a DES algorithm sourced from any online platforms or use your own implementation.
+- 🔐 **Encrypt** the provided file using your DES algorithm and save the ciphertext in a separate file.
+- 📄 Ensure the **ciphertext file** can be uploaded to the DES decryption function to recover the original file.
 
-### Deadline
+### ⏰ Deadline
 
-- Date: Saturday, 20th of April, 2024
-- Time: 11:59 PM
+- 📅 **Date**: Saturday, 20th of April, 2024  
+- 🕛 **Time**: 11:59 PM  
+
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)
