@@ -4,7 +4,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td colspan="2" align="center"><strong>{ Digital Signatures Presentation }</strong></td>
+      <td colspan="2" align="center"><strong>{ Task 1: Utilize the DES algorithm for file encryption and decryption }</strong></td>
     </tr>
     <tr>
       <td align="center"><strong>Names:</strong><br>Dalia Gamal Abdelhamed<br>Mootaz Medhat Ezzat Abdelwahab</td>
