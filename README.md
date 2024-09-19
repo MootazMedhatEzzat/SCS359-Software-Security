@@ -30,7 +30,7 @@ Software Security Course (Spring 2024)
 
 ### 📤 Submission Instructions
 
-- 🖥️ **Implement** a DES algorithm sourced from any online platforms or use your own implementation.
+- 🖥️ **Implement** a DES (Data Encryption Standard) algorithm sourced from any online platforms or use your own implementation.
 - 🔐 **Encrypt** the provided file using your DES algorithm and save the ciphertext in a separate file.
 - 📄 Ensure the **ciphertext file** can be uploaded to the DES decryption function to recover the original file.
 
