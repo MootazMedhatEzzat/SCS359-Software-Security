@@ -22,19 +22,29 @@
 
 ---
 
-## Task 2: Implement RSA from Scratch
+## 🔐 Task 2: Implement RSA from Scratch
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
 Software Security Course (Spring 2024)
 
-Create a CPP program to implement the RSA algorithm for encryption and decryption. The program should include functions for the following:
-- Generating keys
-- Encrypting messages
-- Decrypting ciphertext
+Create a **C++** program to implement the RSA algorithm for encryption and decryption. The program should include functions for the following:
 
+- 🔑 **Generating keys**  
+- ✉️ **Encrypting messages**  
+- 🔓 **Decrypting ciphertext**
 
-### Deadline
+### ⏰ Deadline
 
-- Date: Saturday, 20th of April, 2024
-- Time: 11:59 PM
+- 📅 **Date**: Saturday, 20th of April, 2024  
+- 🕛 **Time**: 11:59 PM
+
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)
