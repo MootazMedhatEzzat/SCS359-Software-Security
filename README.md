@@ -4,11 +4,11 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td colspan="2" align="center"><strong>{ Task 1: Utilize the DES algorithm for file encryption and decryption }</strong></td>
+      <td colspan="2" align="center"><strong>{ Digital Signatures Presentation }</strong></td>
     </tr>
     <tr>
-      <td align="left"><strong>Name</strong>: Mootaz Medhat Ezzat Abdelwahab</td>
-      <td align="right"><strong>Id</strong>: 20206074</td>
+      <td align="center"><strong>Names:</strong><br>Dalia Gamal Abdelhamed<br>Mootaz Medhat Ezzat Abdelwahab</td>
+      <td align="center"><strong>IDs:</strong><br>20206023<br>20206074</td>
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
